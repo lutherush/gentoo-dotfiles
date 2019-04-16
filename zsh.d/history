@@ -1,0 +1,577 @@
+clear
+clear
+exit
+ranger
+cd bkps
+git init
+cd
+cd builds/dwm
+ls
+ls
+ls -a
+sudo emerge -av feh
+bash
+ls
+cd dwm/
+ls
+cd
+cd builds/
+mv dwm/dwm/ ~/Documents/
+rm -rf dwm/
+mv ~/Documents/dwm/ ~/builds/
+ls
+cd dwm/
+make
+sudo make install
+mkdir ~/.dwm
+ls
+;a
+la
+ls
+nano .zshrc
+nano .zshrc
+cd builds/st
+ls
+nano .zshrc
+patch -p1 < st-scrollback-20190331-21367a0.diff
+patch -p1 < st-scrollback-mouse-0.8.diff
+patch -p1 < st-scrollback-mouse-altscreen-20190131-e23acb9.diff
+make
+nano config.h
+nano 
+sudo emerge -av gedit
+sudo dispatch-conf
+sudo emerge -av gedit
+cd Downloads
+git clone https://github.com/MitchWeaver/suckless.git
+
+ranger
+feh ~/Pictures/wallpapers/wallhaven-122153.jpg
+sudo emerge -av imlib2
+sudo nano /etc/portage/make.conf
+sudo emerge -av imlib2
+sudo nano /etc/portage/make.conf
+sudo emerge -av imlib2
+cd builds/st
+make
+make
+sudo make install
+nls
+ls
+ls --tree
+feh ~/Pictures/wallpapers/wallhaven-122153.jpg
+ls
+ls
+sudo emerge -C xterm
+clear
+sudo emerge -av nitrogen
+cd builds
+git clone https://github.com/sebastiencs/icons-in-terminal.git
+cd icons-in-terminal
+./install.sh
+./print_icons.sh
+./print_icons.sh > ~/icons.txt
+sudo emerge -av unicode-utf8
+sudo emerge -av Unicode-UTF8
+sudo emerge -av xwinwrap
+sudo dispatch-conf
+sudo emerge -av xwinwrap
+sudo emerge -av rxvte-unicode
+sudo emerge -av rxvt-unicode
+./install.sh
+sudo emerge -av fontconfig
+cd 
+nano .Xdefaults
+nano .Xdefaults
+nano .Xdefaults
+./install.sh
+./print_icons.sh
+cd builds/icons-in-terminal
+./print_icons.sh
+cd
+cd builds/dwm/
+nano config.h
+make
+sudo make install
+sudo eselect fonts
+sudo eselect font
+sudo emerge -av fontawesome
+sudo emerge -C xwinwrap
+cd 
+mkdir dotfiles
+mkdir dotfiles/scripts
+cd dotfiles/scripts
+nano -w fehbg.sh
+ranger
+chmod +x fehbg.sh
+./fehbg.sh
+nano -w fehbg.sh
+./fehbg.sh
+cd 
+nano .xinitrc
+sudo emerge -av devicon
+nano .Xdefaults
+sudo emerge -av fontvconfig
+sudo emerge -av fontconfig
+sudo emerge -av noto droid
+sudo emerge -av dinaa Humor-Sans efont-unicode
+sudo emerge -av dina Humor-Sans efont-unicode
+cd builds
+git clone https://github.com/lukas-w/font-logos.git
+cd font-logos
+ls
+./compile.sh
+sudo eselect fontconfig list
+cd
+sudo emerge -av zlib1g-dev fontforge
+sudo emerge -av zlib fontforge
+ranger
+nano dotfiles/scripts/fehbg.sh
+~/dotfiles/scripts/fehbg.sh
+sudo emerge -av feh
+xsed -dpms
+xset -dpms
+
+~/dotfiles/scripts/fehbg.sh
+nano dotfiles/scripts/fehbg.sh
+~/dotfiles/scripts/fehbg.sh
+update
+sudo update
+sudo update
+sudo emerge -av --use --new -deep @world
+sudo emerge -av --use --new  @world
+sudo emerge -av -UDn  @world
+xset +fp /home/lutherus/.local/share/fonts
+sudo nano -w /etc/portage/package.use/package.use
+
+sudo emerge -av pango
+clear
+cd builds
+unzip mononoki.zip
+ls
+unzip mononoki.zip > /home/lutherus/.local/share/fonts
+sudo emerge -av media-sound/mpc mpd ncmpcpp
+sudo nano -w /etc/portage/package.use/package.use
+sudo emerge -av media-sound/mpc mpd ncmpcpp
+sudo dispatch-conf
+sudo emerge -av media-sound/mpc mpd ncmpcpp
+nano .Xdefaults
+xrdb -merge .Xdefaults
+ls
+la
+urxvt
+urxvt
+urxvt
+sudo nano /etc/portage/package.use/package.use
+sudo emerge -av rxvt-unicode
+sudo nano /etc/portage/package.use/package.use
+sudo emerge -av rxvt-unicode
+sudo nano /etc/portage/package.use/package.use
+sudo emerge -av rxvt-unicode
+sudo nano -w /etc/portage/package.use/package.use
+ls
+cd
+ls
+nano .zshrc
+ls
+la
+la
+cd 
+cd builds/st/
+nano config.h
+ls
+make
+sudo make clean install
+sudo make  install
+ls
+cd builds/st
+nano config.h
+make
+make clean
+make
+sudo reboot
+startx
+ls
+killall st
+ls
+la
+cd dotfiles/scripts
+./fehbg.sh
+cd
+nano .xinitrc
+startx
+ls
+ls
+la
+fc-list
+cd builds
+cp dwm/config.h ~/Documents
+cd
+cp -r .dwm .config
+ls
+la
+startx
+cd builds/dmenu-4.9
+make
+sudo make install
+cd
+cd builds/dwm
+nano config.h
+cd
+cd builds
+rm -rf dwm
+cd 
+cd Downloads/\
+cd Downloads
+unzip dotfiles-master.zip
+ls
+clear
+cd dotfiles-master
+ls
+cp -r dwm ~/builds
+cd ~?bu
+cd ~/builds
+ls
+cd dwm
+nano config.h
+make
+mkae clean
+make clean
+make
+cd
+cd builds
+rm -rf dwm
+git clone https://git.suckless.org/dwm
+sudo emerge -C rxvt-unicode
+sudo emerge -av xterm
+sudo emerge -avUDn world
+nano .Xdefaults
+ls
+fc-match Mononoki
+cd builds/icons-in-terminal
+./print_icons.sh
+xterm -fa mononoki
+xterm -fa 'mononoki'
+
+sudo emerhe -av xlsfonts
+xlsfonts
+sudo emerge -av x11-apps/xlsfonts
+
+emerge --ask dev-lang/ghc
+emerge --ask xmonad
+sudo emerge --ask xmonad xmonad-contrib xmobar
+xrdb merge .Xdefaults
+ls
+la
+cd builds/st
+make
+cd 
+cd builds
+rm -rf st
+rm -rf surf
+cd ~/Downloads
+cd dotfiles-master
+ls
+mv st ~/builds
+mv surf ~/builds
+cd ~/builds
+rm -rf dmenu-4.9
+cd ~/Downloads/dotfiles-master
+mv dmenu ~/builds
+cd 
+cd ~/builds/st
+ls
+patch -p1 < st-no_bold_colors-20170623-b331da5.diff
+patch -p1 < st-solarized-dark-20180411-041912a.diff
+nano config.h
+make
+sudo make install
+ls
+la
+cd builds/st
+nano config.h
+cd
+cd builds/st
+make
+sudo make install
+ls
+vim .vimrc
+cd builds/st
+ls
+sudo emerge -av nitrogen
+clear
+cd builds/dwm
+ls
+make
+sudo make install
+sudo reboot
+startx
+cd builds
+rm -rf dwm
+cd 
+cd ~/Downloads
+ls
+cd dotfiles-master
+ls
+cd dwm
+ls
+cd dwm
+cd ..
+cp -r dwm ~/builds
+cd ~/builds
+cddw
+cd dwm
+make
+sudo make install
+startx
+nano ~/builds/dwm/config.h
+la
+cd .dwm
+ls
+chmod +x autostart.sh
+cd 
+cd ~/.config
+ls
+cd
+cd .dwm
+ls
+cd ..
+cp -r .dwm .config
+nano .dwm/autostart.sh
+cd builds/dwm
+make
+sudo make clean install
+startx
+cd builds/icons-in-terminal
+./print_icons.sh > showme.txt
+cd builds
+crm -rf dmenu
+cd 
+cd Downloads
+ls
+cd suckless
+ls
+cp -r dmenu ~/builds
+cd ~/builds/dmenu
+ls
+make
+sudo make install
+startx
+cd builds/dwm
+make
+sudo make clean install
+patch -p1 < dwm-pertag-6.1.diff
+nano config.h
+make
+sudo make install
+startx
+sudo emerge -av nitrogen
+sudo nano /etc/portage/package.use/package.use
+sudo emerge -av nitrogen
+sudo eselect newa read
+sudo eselect news read
+sudo emerge -av gimp blender
+xset off
+xset s off
+xset -dpms
+sudo dispatch-conf
+sudo emerge -av gimp blender
+cd builds/dwm
+make
+sudo make install
+ls
+ls -tree
+ls --tree
+cd
+tree
+ls -tree
+ls --tree
+clear
+sudo emerge -av gnome-boxes
+sudo dispatch-conf
+sudo emerge -av gnome-boxes
+sudo nano /etc/portage/package.use/package.use
+sudo emerge -av gnome-boxes
+sudo vim /etc/portage/package.use/zz-autounmask
+sudo emerge -av gnome-boxes
+sudo dispatch-conf
+sudo emerge -av gnome-boxes
+sudo vim /etc/portage/package.use/zz-autounmask
+sudo emerge -av qemu
+sudo dispatch-conf
+sudo emerge -av qemu
+sudo emerge -av app-emulation/qt-virt-manager
+sudo dispatch-conf
+sudo emerge -av app-emulation/qt-virt-manager
+telnet
+cd builds/dwm
+make clean
+make
+sudo make insta
+sudo make install
+sudo emerge --ask app-portage/mirrorselect
+mirrorselect -s5 -b10 -D
+sudo mirrorselect -s5 -b10 -D
+mirrorselect -i
+sudo mirrorselect -i
+sudo emerge --sync
+sudo gpasswd -u lutherus kvm
+sudo gpasswd -a lutherus kvm
+sudo groupadd libvirt
+sudo usermod -g -G libvirt lutherus
+sudo usermod -a -G libvirt lutherus
+sudo nano /etc/libvirt/libvirtd.conf
+sudo /etc/init.d/libvirtd restart 
+qemu
+\:r
+startx
+qt-virt-manager
+sudo emerge -av app-emulation/qt-virt-manager
+sudo emerge -av aqemu
+sudo emerge -av rdesktop
+sudo emerge -av scrot rdesktop 
+cd
+makdir isos
+mkdir isos
+cd isos
+sudo emerge -av tmux
+tmux
+tmux
+wget http://releases.ubuntu.com/18.04.2/ubuntu-18.04.2-desktop-amd64.iso?_ga=2.140449011.1310556734.1555257657-2002003065.1555257657
+wget https://www.ubuntu.com/download/desktop/thank-you?country=HR&version=18.04.2&architecture=amd64
+wget http://releases.ubuntu.com/18.04/ubuntu-18.04.2-desktop-amd64.iso
+wget https://download.fedoraproject.org/pub/fedora/linux/releases/29/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-29-1.2.iso
+vim builds/dwm/config.h
+vim .vimrc
+vim .zshrc
+vim .vimrc
+wget https://download.fedoraproject.org/pub/fedora/linux/releases/29/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-29-1.2.iso
+cd isos
+wget http://centos.t-2.net/7.6.1810/isos/x86_64/CentOS-7-x86_64-DVD-1810.iso
+sudo nano /etc/default/grub
+sudo grub-mkconfig
+sudo update-grub
+cd isos
+wget openSUSE-Leap-15.0-DVD-x86_64
+wget openSUSE-Leap-15.0-DVD-x86_64
+kilall aqemu
+killall aqemu
+sudo emerge -av transmission
+cleare
+clear
+transmission-cli
+transimission
+sudo emerge -av transmission-remote-cli aia2
+sudo emerge -av transmission-remote-cli aria2
+clear
+transmission-cli magnet:http://download.opensuse.org/distribution/leap/15.0/iso/openSUSE-Leap-15.0-DVD-x86_64.iso.magnet 
+aria2
+sudo emerge -av transmission-remote-cli aria2
+sudo nano /etc/portage/package.use/package.use
+sudo emerge -av transmission-remote-cli aria2
+sudo emerge -av aria2
+sudo nano /etc/portage/package.use/package.use
+sudo emerge -av aria2
+clear
+aria2c -d ~/torrents --bt-metadata-only=true --bt-save-metadata=true --listen-port=6881 http://download.opensuse.org/distribution/leap/15.0/iso/openSUSE-Leap-15.0-DVD-x86_64.iso.torrent
+deskvideo
+sudo emerge -av neofetch
+sudo nano /etc/portage/package.use/package.use
+sudo nano /etc/portage/make.conf
+sudo emerge -av neofetch
+sudo dispatch-conf
+sudo emerge -av neofetch
+sudo emerge -avUDn world
+sudo tail -f /var/log/emerge-fetch.log
+sudo emerge -av neofetch
+exit
+exit
+sudo emerge -av nitrogen
+sh ~/dotfiles/scripts/fehbg.sh
+rm -r ~/.config/nitrogen
+sudo emerge -av libjpeg
+sudo emerge -av libjpeg-turbo
+sudo emerge -av media-libs/jpeg
+sudo emerge -av media-gfx/album
+sudo emerge -av neofetch
+annie
+killall st
+\:r
+startx
+sudo nano /etc/portage/package.use/package.use
+sudo emerge -av nitrogen
+sudo nano /etc/portage/make.conf
+sudo emerge -av media-libs/imlib2
+sudo emerge -av graphicsmagick
+cd builds/st
+nano config.h
+nano config.h
+sudo emerge -avUDn world
+killall aqemu
+sudo emerge -C aqemu
+sudo emerge -av virtio-manager
+sudo emerge -av virt-manager
+virt-manager
+virt
+qemu
+clear
+sudo emerge -C virt-manager
+sudo emerge -av qtemu
+sudo emerge -av qtqemu
+sudo emerge -av qtemu
+sudo emerge -av qtEmu
+sudo emerge -av QtEmu 
+sudo emerge -C qemu
+emerge --depclean -av
+sudo emerge --depclean -av
+sudo vim /etc/portage/package.use/package.use
+sudo emerge -av nano
+sudo emerge -av virtualbox
+sudo vim /etc/portage/package.use/package.use
+sudo emerge -av virtualbox
+sudo tail -f /var/log/emerge-fetch.log
+sudo emerge --ask app-emulation/virtualbox-additions
+sudo gpasswd -a lutherus vboxusers
+sudo modprobe vboxdrv
+sudo modprobe vboxnetadp \
+sudo modprobe vboxnetadp 
+sudo modprobe vboxnetflt 
+sudo modprobe vboxpci 
+sudo /etc/modules-load.d/virtualbox.conf
+sudo nano /etc/modules-load.d/virtualbox.conf
+sudo nano -w /etc/modules-load.d/virtualbox.conf
+killall st
+\:r
+startx
+VirtualBox
+virtualbox
+sudo virtualbox
+sudo VirtualBox
+sudo emerge -av virtualbox
+sudo gpasswd -a lutherus vboxusers
+vbox
+Vbox
+VBox
+startx
+virtualbox
+sudo emerge -C virtualbox
+xset s off
+xset -dpms
+ffmpeg -video_size 1920x1080 -framerate 25 -f x11grab -i :0.0+100,200 -f pulse -ac 2 -i default output.mkv
+mkdior .mplayer
+mkdir .mplayer
+cd .mplayer
+nano -w config
+vim builds/surf/config.h
+cd
+ls
+sudo emerge -av pcmanfm
+sudo dispatch-conf
+sudo emerge -av pcmanfm
+cd builds
+mkdir web
+cd web
+git clone https://github.com/samirelanduk/Pulse.git
+cd
+mplayer output.mkv
+sudo emerge -av mplayer
